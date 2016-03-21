@@ -1,7 +1,6 @@
 # leetcode
 
-# practice
-
-# never give up
-
-# keep moving!
+practice
+practice
+and
+practice
